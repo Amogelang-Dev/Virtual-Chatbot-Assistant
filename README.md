@@ -45,7 +45,7 @@ This application serves as an educational hub for cybersecurity awareness. It fe
 ---
 
 ### 🖋️ Author
-* **Matlhaga Amogelang (Amo)**
+* **Matlhaga Amogelang **
 
 ---
 *Project Developed for Part 3 POE*
